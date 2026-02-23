@@ -92,8 +92,8 @@ python3 fetch.py <work_id>
 **Example:**
 
 ```bash
-python3 fetch_single_optimized.py 79906886
-python3 fetch_single_optimized.py https://archiveofourown.org/works/79906886
+python3 fetch.py 79906886
+python3 fetch.py https://archiveofourown.org/works/79906886
 ```
 
 **Output Format:**
